@@ -34,9 +34,4 @@ A landing page foi desenvolvida para oferecer uma boa experiência de navegaçã
 - tablet
 - smartphone
 
-## ⚙️ Como executar o projeto
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/lucassitton/landingpage.git
